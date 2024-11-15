@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "MODEL_NAME": "gpt-4o",
+    "AZURE_OPENAI_ENDPOINT": "https://azure-openai-avanzado.openai.azure.com/",
+    "AZURE_OPENAI_KEY": "AM9pc0PPqNCAThXPxqvgw8zFHOi0UWgleVlnUlXfNd4xkCIxuw1CJQQJ99AKACfhMk5XJ3w3AAABACOGYSdn"
+  }
+}

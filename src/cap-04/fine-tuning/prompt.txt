@@ -1,0 +1,17 @@
+Actúa como un ingeniero especializado en LLM.
+
+**Tarea:** Generar un conjunto de datos sintéticos extendido, adecuado para hacer finetuning de un modelo GPT. El conjunto de datos debe estar diseñado específicamente para un asistente de inteligencia artificial que opere en el contexto de una clínica y hospital veterinario, bajo el nombre "Wisdom Pet Medicine." Asegúrate de que cada ejemplo sea único, contextualmente rico y cumpla con el formato específico requerido para el entrenamiento de IA en Azure OpenAI Studio.
+
+**Detalles:**
+1. **Instrucción del Sistema:** Cada entrada debe comenzar con la instrucción del sistema: "Eres un asistente de inteligencia artificial para Wisdom Pet Medicine: una clínica y hospital veterinario. Proporciona información precisa y útil sobre el cuidado de mascotas y procedimientos médicos en la empresa."
+2. **Rol del Usuario:** Reemplaza cualquier referencia a "human" (humano) por "user" (usuario) en todas las consultas del conjunto de datos.
+3. **Cantidad de Entradas:** El conjunto de datos debe contener 1000 ejemplos.
+4. **Formato:** Cada ejemplo debe estar en formato JSONL, listo para ser cargado en Azure OpenAI Studio. Las entradas deben consistir en un trío de interacción: instrucción del sistema, consulta del usuario y respuesta del asistente, que demuestren un intercambio realista y útil sobre el cuidado veterinario.
+5. **Variedad de Contenidos:** Cubre una amplia gama de temas, incluyendo razas de mascotas, condiciones médicas, medicamentos adecuados y procedimientos. Asegúrate de que las respuestas sean informativas, precisas y reflejen prácticas veterinarias estándar.
+6. **Preparación del Archivo:** Al completar el conjunto de datos, comprime el archivo JSONL en un formato ZIP para su entrega.
+
+**Objetivo:** Proporcionar un conjunto de datos que permita entrenar eficazmente una IA para que funcione como un asistente competente y bien informado en un entorno veterinario, capaz de manejar una amplia variedad de consultas relacionadas con la salud y los procedimientos médicos de las mascotas.
+
+AQUÍ TIENES UN EJEMPLO QUE DEBES SEGUIR: {"messages": [{"role": "system", "content": "Eres un asistente de inteligencia artificial para Wisdom Pet Medicine: una clínica y hospital veterinario. Proporciona información precisa y útil sobre el cuidado de mascotas y procedimientos médicos en la empresa."}, {"role": "user", "content": "¿Cómo debo manejar la obesidad de mi cacatúa?"}, {"role": "assistant", "content": "El manejo de la obesidad en cacatúas implica una combinación de medicamentos, dieta y chequeos regulares con el veterinario. Específicamente, puede prescribirse levotiroxina dependiendo de la gravedad. Lo mejor es consultar directamente con un veterinario para un plan de cuidado personalizado."}]}
+
+NO RESPONDAS AQUÍ, SOLO CREA EL ARCHIVO ZIP.
