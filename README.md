@@ -3,7 +3,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Azure OpenAI: Más allá de lo básico]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Azure OpenAI: Más allá de lo básico][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -32,7 +32,6 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: [https://www.linkedin.com](https://www.linkedin.com/learning/azure-openai-mas-alla-de-lo-basico-24606337/profundiza-en-a-tecnologia-de-azure-openai)
-[lil-thumbnail-url]:[https://media.licdn.com/dms/image/v2/D4E0DAQEpuvSlLZms-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736776256306?e=2147483647&v=beta&t=8sngatM7d11HZ0Hy_zwvZA5rt6szmRCQwTeWuahszUE)]
-
+[lil-course-url]: https://www.linkedin.com/learning/azure-openai-mas-alla-de-lo-basico-24606337/profundiza-en-a-tecnologia-de-azure-openai?
+[lil-thumbnail-url]:https://media.licdn.com/dms/image/v2/D4E0DAQEpuvSlLZms-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736776256306?e=2147483647&v=beta&t=8sngatM7d11HZ0Hy_zwvZA5rt6szmRCQwTeWuahszUE
 [1]: # (End of ES-Instruction ###############################################################################################)
