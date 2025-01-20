@@ -33,6 +33,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: [https://www.linkedin.com](https://www.linkedin.com/learning/azure-openai-mas-alla-de-lo-basico-24606337/profundiza-en-a-tecnologia-de-azure-openai)
-[lil-thumbnail-url]: [https:](https://media.licdn.com/dms/image/v2/D4E0DAQEpuvSlLZms-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736776256306?e=2147483647&v=beta&t=8sngatM7d11HZ0Hy_zwvZA5rt6szmRCQwTeWuahszUE)
+[lil-thumbnail-url]:[https://media.licdn.com/dms/image/v2/D4E0DAQEpuvSlLZms-A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736776256306?e=2147483647&v=beta&t=8sngatM7d11HZ0Hy_zwvZA5rt6szmRCQwTeWuahszUE)]
 
 [1]: # (End of ES-Instruction ###############################################################################################)
